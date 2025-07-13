@@ -24,8 +24,14 @@ I'm an enthusiastic frontend developer in training, currently pursuing a Bachelo
 
 ---
 
+![Sanithu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanithuM&show_icons=true&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanithuM&layout=compact&theme=radical)
+
 ---
 
-> “Great web design without functionality is like a sports car with no engine.” – Paul Cookson
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3kybTQ0M3cwaWxqdGszZXA3aWV3cXJlb25sdTI2dmJwZW03dTFhbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CY3A9zOlZR8uhFbeok/giphy.gif" width="300"/>
+
 
 Thanks for visiting my profile! 🌟
