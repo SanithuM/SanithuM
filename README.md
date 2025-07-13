@@ -31,6 +31,7 @@ I'm an enthusiastic frontend developer in training, currently pursuing a Bachelo
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanithuM&layout=compact&theme=radical" width="400"/>
 </p>
+
 ---
 
 <div align="center">
