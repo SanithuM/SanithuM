@@ -5,9 +5,29 @@ I'm an enthusiastic frontend developer in training, currently pursuing a Bachelo
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Languages: **HTML**, **CSS**, **JavaScript**, **PHP**
+- 💻 Languages: **HTML**, **CSS**, **JavaScript**, **PHP**, **Python**
 - ⚛️ Currently Learning: **React.js**
 - 🧰 Tools: VS Code, Git & GitHub, Figma, Chrome DevTools
+
+<p align="center">
+  <!-- Core Web Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" title="React.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" title="Php" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" title="Python" />
+  
+  <!-- Styling Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px" title="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg" width="40px" title="Tailwind CSS" />
+  
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" title="Figma" />
+</p>
+
 
 ---
 
@@ -26,11 +46,12 @@ I'm an enthusiastic frontend developer in training, currently pursuing a Bachelo
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanithuM&show_icons=true&theme=radical" width="400"/>
-  &nbsp;&nbsp;&nbsp;
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanithuM&show_icons=true&theme=radical" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanithuM&layout=compact&theme=radical" width="400"/>
-</p>
+</div>
+
+
 
 ---
 
