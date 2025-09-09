@@ -39,7 +39,7 @@ I'm an enthusiastic frontend developer in training, currently pursuing a Bachelo
 ---
 
 ### 📚 Education
-🎓 Bachelor's Degree in IT  
+🎓 Pearson BTEC Level 5 HND in Computing (General)  
 📍 Sri Lanka
 
 ---
