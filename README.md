@@ -49,7 +49,7 @@ I'm an enthusiastic frontend developer in training, currently pursuing a Bachelo
 ### 📊 GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanithuM&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SanithuM&show_icons=true&theme=radical&count_private=true" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanithuM&layout=compact&theme=radical&hide=hack&exclude_repo=forked-repo-name" width="400"/>
 
 </div>
