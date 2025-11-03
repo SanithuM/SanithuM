@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanithu Malhiru
 
-I'm an enthusiastic frontend developer in training, currently pursuing a Bachelor's Degree in Information Technology. I'm passionate about crafting clean, responsive, and interactive websites that provide great user experiences.
+I'm an enthusiastic frontend developer in training, currently pursuing a Bachelor's Degree in Computer Science in web and mobile application development. I'm passionate about crafting clean, responsive, and interactive websites that provide great user experiences.
 
 ---
 
