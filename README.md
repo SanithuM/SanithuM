@@ -60,7 +60,8 @@ I'm an enthusiastic frontend developer in training, currently pursuing a Bachelo
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3kybTQ0M3cwaWxqdGszZXA3aWV3cXJlb25sdTI2dmJwZW03dTFhbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CY3A9zOlZR8uhFbeok/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQ2ejEyYzYwaXpsemcyZzFmMTR3NXF1b3B0ZTg2cDRqYzlzc3l1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d5fMI9ftgQiGzoZoB9/giphy.gif"
+width="300"/>
 </div>
 
 ---
