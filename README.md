@@ -1,13 +1,17 @@
 # 👋 Hi, I'm Sanithu Malhiru
 
-I'm an enthusiastic frontend developer in training, currently pursuing a Bachelor's Degree in Computer Science in web and mobile application development. I'm passionate about crafting clean, responsive, and interactive websites that provide great user experiences.
+**Software Engineer Intern | Full-Stack Developer** *Final Year BSc (Hons) Computer Science Student at Kingston University*
+
+I am a developer focused on building scalable, high-performance web applications. My expertise lies in the **MERN stack** and **FastAPI**, with a strong emphasis on clean UI/UX using **Tailwind CSS**. I enjoy bridging the gap between complex backend logic and intuitive frontend experiences.
 
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Languages: **HTML**, **CSS**, **JavaScript**, **PHP**, **Python**
-- ⚛️ Currently Learning: **React.js**
-- 🧰 Tools: VS Code, Git & GitHub, Figma, Chrome DevTools
+- 💻 Frontend: **HTML**, **CSS**, **JavaScript**, **React**
+- ⚛️ Backend: **Node.js**, **Express.js**, **PHP**, **Python**
+- 🛢 Database: **MongoDB**, **MySQL**
+- 📱 Mobile: **Flutter**
+- 🧰 Tools: VS Code, Git & GitHub, Figma, Postman, Chrome DevTools
 
 <p align="center">
   <!-- Core Web Languages -->
@@ -19,14 +23,21 @@ I'm an enthusiastic frontend developer in training, currently pursuing a Bachelo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40px" title="Flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" title="java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40px" title="express.js" />
   
   <!-- Styling Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px" title="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg" width="40px" title="Tailwind CSS" />
+
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL" />  
   
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40px" title="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" title="Figma" />
 </p>
 
@@ -41,8 +52,8 @@ I'm an enthusiastic frontend developer in training, currently pursuing a Bachelo
 ---
 
 ### 📚 Education
-🎓 Pearson BTEC Level 5 HND in Computing (General)  
 🎓 Bcs Degree in Computer Science in Web & Mobile Application Development (final year)  
+🎓 Pearson BTEC Level 5 HND in Computing (General)  
 📍 Sri Lanka
 
 ---
