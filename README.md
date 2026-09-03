@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanithu Malhiru
 
-**Software Engineer Intern | Full-Stack Developer** *Final Year BSc (Hons) Computer Science Student at Kingston University*
+**Software Engineer Intern | Full-Stack Developer** *Graduate in BSc (Hons) Computer Science at Kingston University*
 
 I am a developer focused on building scalable, high-performance web applications. My expertise lies in the **MERN stack** and **FastAPI**, with a strong emphasis on clean UI/UX using **Tailwind CSS**. I enjoy bridging the gap between complex backend logic and intuitive frontend experiences.
 
@@ -52,7 +52,7 @@ I am a developer focused on building scalable, high-performance web applications
 ---
 
 ### 📚 Education
-🎓 Bcs Degree in Computer Science in Web & Mobile Application Development (final year)  
+🎓 Bcs Degree in Computer Science in Web & Mobile Application Development 
 🎓 Pearson BTEC Level 5 HND in Computing (General)  
 📍 Sri Lanka
 
