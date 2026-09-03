@@ -52,7 +52,7 @@ I am a developer focused on building scalable, high-performance web applications
 ---
 
 ### 📚 Education
-🎓 Bcs Degree in Computer Science in Web & Mobile Application Development 
+🎓 Bcs Degree in Computer Science in Web & Mobile Application Development   
 🎓 Pearson BTEC Level 5 HND in Computing (General)  
 📍 Sri Lanka
 
