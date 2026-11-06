@@ -7,36 +7,28 @@ I am a developer focused on building scalable, high-performance web applications
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Frontend: **HTML**, **CSS**, **JavaScript**, **React**
-- ⚛️ Backend: **Node.js**, **Express.js**, **PHP**, **Python**
-- 🛢 Database: **MongoDB**, **MySQL**
-- 📱 Mobile: **Flutter**
-- 🧰 Tools: VS Code, Git & GitHub, Figma, Postman, Chrome DevTools
-
 <p align="center">
   <!-- Core Web Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" title="React.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" title="Php" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40px" title="Flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" title="java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40px" title="express.js" />
   
   <!-- Styling Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px" title="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg" width="40px" title="Tailwind CSS" />
-
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40px" title="TailwindCSS" />
+          
   <!-- Database -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" title="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL" />  
   
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" width="40px" title="WebStrom" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40px" title="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" title="Figma" />
 </p>
@@ -47,12 +39,11 @@ I am a developer focused on building scalable, high-performance web applications
 ### 🚀 Current Focus
 - Deepening my skills in frontend development  
 - Building real-world projects to apply what I learn  
-- Learning React to enhance UI interactivity and performance
 
 ---
 
 ### 📚 Education
-🎓 Bcs Degree in Computer Science in Web & Mobile Application Development   
+🎓 BSc Degree in Computer Science in Web & Mobile Application Development   
 🎓 Pearson BTEC Level 5 HND in Computing (General)  
 📍 Sri Lanka
 
